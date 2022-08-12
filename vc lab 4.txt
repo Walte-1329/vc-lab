@@ -1,1 +1,2 @@
 vc lab class
+vc2 lab class
